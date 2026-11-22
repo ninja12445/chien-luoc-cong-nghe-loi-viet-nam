@@ -8,7 +8,7 @@
 | **Đãi ngộ nhân tài** | Bảng lương công chức cào bằng | Lương thị trường + Chia cổ phần sáng chế (IP) |
 | **Quyền thẩm định** | Hội đồng hành chính / hàn lâm cũ | Hội đồng chuyên gia thực chiến & doanh nhân (≥50%) |
 
-## 3. Khung hành động đề xuất (Actionable Framework)
+## 3. Khung hành động đề xuất 
 1. **Luật hóa quyền được thất bại trong R&D...**
 2. **Tách quỹ lương của chuyên gia..**
 3. **Nhà nước đặt hàng, tư nhân thẩm định...**
