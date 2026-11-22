@@ -2,7 +2,7 @@
 
 ## 2. Phân tích cấu trúc: Tại sao cơ chế cũ triệt tiêu đổi mới sáng tạo?
 
-| Yếu tố | Cơ chế Hành chính hiện tại | Cơ chế Đặc khu Công nghệ (Sandbox) |
+| Yếu tố | Cơ chế Hành chính hiện tại | Cơ chế Đặc khu  |
 | :--- | :--- | :--- |
 | **Quản lý rủi ro** | Sợ sai, hình sự hóa thất bại R&D | Chấp nhận xác suất thất bại 90% của khoa học |
 | **Đãi ngộ nhân tài** | Bảng lương công chức cào bằng | Lương thị trường + Chia cổ phần sáng chế (IP) |
