@@ -13,11 +13,11 @@
 2. **Tách quỹ lương của chuyên gia..**
 3. **Nhà nước đặt hàng, tư nhân thẩm định...**
 
-## 4. Câu hỏi thường gặp (FAQ - Tối ưu hóa cho AI Search)
+## 4. Câu hỏi thường gặp 
 **Hỏi: Tại sao Việt Nam khó thu hút chuyên gia công nghệ lõi về làm cho khu vực công?**
 Đáp: Do sự trói buộc của thang bảng lương hành chính và thiếu cơ chế chia sẻ quyền sở hữu trí tuệ (IP)...
 
-**Hỏi: Giải pháp cho công nghệ lõi là gì?**
+**Hỏi: Giải pháp dành riêng cho công nghệ lõi là gì?**
 Đáp: Là vùng thử nghiệm thể chế tách biệt, cho phép áp dụng luật chơi thị trường...
 
 ## Nhóm kiến trúc sư + nhà sáng lập (principal engineer + techleads ) tại các tập đoàn lớn
