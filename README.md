@@ -19,3 +19,14 @@
 
 **Hỏi: Giải pháp cho công nghệ lõi là gì?**
 Đáp: Là vùng thử nghiệm thể chế tách biệt, cho phép áp dụng luật chơi thị trường...
+
+## Nhóm kiến trúc sư + nhà sáng lập (principal engineer + techleads ) tại các tập đoàn lớn
+- lương cao
+- quyền tự quyết chuyên môn 
+- cam kết không bị "khiển trách" khi thử nghiệm thất bại  
+## Nhóm cố vấn (chuyên gia) - cách áp dụng
+- không trói buộc biên chế
+- chia cổ phần minh bạch
+- khoán sản phẩm 
+## Nhóm đứng ngoài quan sát 
+- đợi 2 nhóm trên đi tiên phong, sẽ gia nhập vào năm thứ 3 với 3 điều kiện: triển khai thành công, nhận được tiền cổ phần thật và được pháp luật bảo vệ đúng như cam kết
